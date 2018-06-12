@@ -1,50 +1,77 @@
-## Your Name
+## Patryk Pilecki
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [INTERESTS](#interests) | [TECH STACK](#tech stack)
 
-## Skills
+I am a software developer hungry for knowledge and currently looking for a posting. Do
 
-#### This Skill
+## PROJECTS
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+| Project       | Summary       | Technologies  | Timeframe | Testing |
+| ------------- |---------------| --------------|-----------|---------|
+| Blcokchain Prescription App ([Github](https://github.com/Daniel57910/blockchain_project))([Heroku](https://secure-everglades-20518.herokuapp.com/))| Prescription app storing data in blockchain, final project at Makers Academy | JavaScript, NodeJS, express, mongoDB, HTML/CSS, TravisCI, Heroku | 2 weeks | Jasmine, Istanbul, Cypress |
+| Acebook ([Github](https://github.com/gabrielhochstatter/acebook-byte-2))([Heroku](https://acebook-byte-2.herokuapp.com/))| Group project to recreate Facebook website | Ruby on Rails, HTML/CSS, Bootstrap, Devise, postgreSQL, TravisCI, Heroku | 2 weeks | RSpec, Capybara, Simple-cov |
+| Bank tech test ([Github](https://github.com/Pil3q/bank_tech_test)) | My very first tech test | Ruby | one day |RSpec |
+| Rock Paper Scissors Lizard Spock ([Github](https://github.com/Pil3q/rps-challenge)) | Implementation of magnificent game created by Sheldon Cooper| Ruby, Sinatra | two days | RSpec, Capybara |
 
-- Experience
-- Achievements
-- Evidence
+##### And many more available on my [Github](https://github.com/Pil3q?tab=repositories)
 
-#### Another Skill
+## SKILLS
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Communication
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My great communication skills made me a great salesperson. I can listen and read body language and thanks to that I can speak in the most understandable manner either to my colleges or clients.
 
-## Education
+#### Analytical and logic
 
-#### Makers Academy (start_date to end_date)
+Since my early years when I dated math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes in Bridge where I won numerous trophies on the national level as a junior.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### Fast-Learner
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I can produce very good quality code using different technologies after 12 weeks. I became a locally recognisable chef and was running the wedding venue after 16 weeks. I am passionate and I am always putting a lot of heart in what I am doing. Thats why I absorb knowledge with an incredible speed.
 
-#### Your University / College (start_date to end_date)
+#### Languages
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+I speak fluent English and I am Polish native. I also know basic Spanish ( I can not run the business meeting but can find the way in Andes)
 
-#### Any other qualifications
+#### Team-Player
 
-## Experience
+All of my working experiences involved working with people. I had an opportunity to lead the team and be a part of it. I can always fit in and thanks to my shiny personality enrich the workflow. Thanks to my sense of humour and approachability I can make the time enjoyable even under the pressure.
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## EDUCATION
+
+#### Makers Academy (December 2017 to March 2018)
+
+- Pair programming
+- Group projects
+- Object-oriented programming
+- TDD & BDD
+- XP values
+
+
+#### Wroclaw University (October 2009 - September 2012)
+
+- Economics with focus on Financial Markets
+
+## TECH STACK
+
+- Ruby
+- Ruby on Rails
+- JavaScript
+- NodeJS
+- PostgreSQL
+- mongoDB
+- Blockchain
+- TravisCI
+- Heroku
+- Rspec
+- Capybara
+- Jasmine
+- Cypress
+
+## INTERESTS
+
+- Yoga
+- Cooking
+- Hiking/mountaineering
+- Travel
+- Art/fashion
