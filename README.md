@@ -23,7 +23,7 @@ My great communication skills made me a great salesperson. I can listen and read
 
 #### Analytical and logic
 
-Since my early years when I dated math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes in Bridge where I won numerous trophies on the national level as a junior.
+Since my early years when I dated math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes playing Bridge where I won numerous trophies on the international level representing Poland in under 18’s national squad.
 
 #### Fast-Learner
 
