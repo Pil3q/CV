@@ -39,7 +39,7 @@ All of my working experiences involved working with people. I had an opportunity
 
 ## EDUCATION
 
-#### Makers Academy (December 2017 to March 2018)
+#### Makers Academy (March 2018 to June 2018)
 
 - Pair programming
 - Group projects
