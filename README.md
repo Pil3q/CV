@@ -1,8 +1,8 @@
 ## Patryk Pilecki
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [TECHNLOGIES](#technologies) | [INTERESTS](#interests)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [TECHNLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
-I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I know so far are not the limit. I value friendly working environment and modern working culture but most importantly personal and team development.
+I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I am familiar so far are not the limit. I value friendly environment and modern working culture but most importantly personal and team development.
 
 ## PROJECTS
 
@@ -67,6 +67,16 @@ All of my working experiences involved working with people. I had an opportunity
 - Capybara
 - Jasmine
 - Cypress
+
+## EXPERIENCE
+
+| Years | Role | Company |
+|------ |------------------------------|-------------|
+|2016 - 2018 | Insurance Consultant | A - Plan Insurance, London, Luton
+|2014 - 2016 | Chef, Co-Founder | Celinka, Poland
+|2011 – 2013| Senior specialist in Complicated Receivables Department | Ultimo Ltd. Poland|
+|2010 – 2011| Inspector, Team leader in Central Eviction Department | Ultimo Ltd. Poland
+|2009 – 2010| Consultant, Investment Advisor |Renaissance Capital Ltd Poland|
 
 ## INTERESTS
 
