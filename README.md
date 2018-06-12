@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [TECHNLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
-I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I am familiar so far are not the limit. I value friendly environment and modern working culture but most importantly personal and team development.
+I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I am familiar so far are not the limit. I value friendly environment and modern working culture but most of all opportunities in personal development and contribution I can make to the team I am collaborating with.
 
 ## PROJECTS
 
