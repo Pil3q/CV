@@ -1,8 +1,8 @@
 ## Patryk Pilecki
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [INTERESTS](#interests) | [TECH STACK](#tech stack)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [INTERESTS](#interests) | [TECHNLOGIES](#technologies) |
 
-I am a software developer hungry for knowledge and currently looking for a posting. Do
+I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I know so far are not the limit. I value friendly working environment and modern working culture but most importantly personal and team development.
 
 ## PROJECTS
 
@@ -46,13 +46,13 @@ All of my working experiences involved working with people. I had an opportunity
 - Object-oriented programming
 - TDD & BDD
 - XP values
-
+- Agile programming
 
 #### Wroclaw University (October 2009 - September 2012)
 
 - Economics with focus on Financial Markets
 
-## TECH STACK
+## TECHNOLOGIES
 
 - Ruby
 - Ruby on Rails
