@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
-I am a software developer with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I am focused on TDD, agile, OOD and believing in XP values. I am pair programming enthusiast also capable to work in a team or on my own. I am open to new technologies and experiences.
+I am a software developer with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I am focused on TDD, agile, OOD and believing in XP values. I am pair programming enthusiast also capable to work in a team or on my own. I am also open to new technologies and experiences.
 
 ## PROJECTS
 
@@ -35,7 +35,7 @@ I speak fluent English and I am Polish native. I also know basic Spanish ( I can
 
 #### Team-Player
 
-All of my working experiences involved working with people. I had an opportunity to lead the team and be a part of it. I can always fit in and thanks to my shiny personality enrich the workflow. Thanks to my sense of humour and approachability I can make the time enjoyable even under the pressure.
+All of my working experiences involved working with people. I had an opportunity to lead the team and be a part of it.
 
 ## EDUCATION
 
