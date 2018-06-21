@@ -1,8 +1,8 @@
 ## Patryk Pilecki
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [TECHNLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
-I am a software developer hungry for knowledge and currently looking for a role. I am open for new experiences so technologies I am familiar so far are not the limit. I value friendly environment and modern working culture but most of all opportunities in personal development and contribution I can make to the team I am collaborating with.
+I am a software developer with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I am focused on TDD, agile, OOD and believing in XP values. I am pair programming enthusiast also capable to work in a team or on my own. I am open to new technologies and experiences.
 
 ## PROJECTS
 
@@ -23,11 +23,11 @@ My great communication skills made me a great salesperson. I can listen and read
 
 #### Analytical and logic
 
-Since my early years when I dated math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes playing Bridge where I won numerous trophies on the international level representing Poland in under 18’s national squad.
+Since my early years when I found math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes playing Bridge where I won numerous trophies on the international level representing Poland in under 18’s national squad.
 
 #### Fast-Learner
 
-I can produce very good quality code using different technologies after 12 weeks. I became a locally recognisable chef and was running the wedding venue after 16 weeks. I am passionate and I am always putting a lot of heart in what I am doing. Thats why I absorb knowledge with an incredible speed.
+I accomplished very exciting projects during 12 weeks at Bootcamp. I became an entrepreneur and locally recognisable chef when I was co-running the wedding venue which I expanded to a micro concert hall in a year.
 
 #### Languages
 
@@ -51,22 +51,6 @@ All of my working experiences involved working with people. I had an opportunity
 #### Wroclaw University (October 2009 - September 2012)
 
 - Economics with focus on Financial Markets
-
-## TECHNOLOGIES
-
-- Ruby
-- Ruby on Rails
-- JavaScript
-- NodeJS
-- PostgreSQL
-- mongoDB
-- Blockchain
-- TravisCI
-- Heroku
-- Rspec
-- Capybara
-- Jasmine
-- Cypress
 
 ## EXPERIENCE
 
