@@ -1,6 +1,6 @@
 ## Patryk Pilecki
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a software developer with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I am focused on TDD, agile, OOD and believing in XP values. I am pair programming enthusiast also capable to work in a team or on my own. I am also open to new technologies and experiences.
 
@@ -69,3 +69,12 @@ All of my working experiences involved working with people. I had an opportunity
 - Hiking/mountaineering
 - Travel
 - Art/fashion
+
+## NETWORKS
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/patryk-pilecki-a21841165/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
