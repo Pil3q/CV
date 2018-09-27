@@ -8,7 +8,7 @@ I am a software developer with almost ten years of experience as a sales consult
 
 | Project       | Summary       | Technologies  | Timeframe | Testing |
 | ------------- |---------------| --------------|-----------|---------|
-| Blcokchain Prescription App ([Github](https://github.com/Daniel57910/blockchain_project)) ([Heroku](https://secure-everglades-20518.herokuapp.com/))| Prescription app storing data in blockchain, final project at Makers Academy | JavaScript, NodeJS, express, mongoDB, HTML/CSS, TravisCI, Heroku | 2 weeks | Jasmine, Istanbul, Cypress |
+| Blockchain Prescription App ([Github](https://github.com/Daniel57910/blockchain_project)) ([Heroku](https://secure-everglades-20518.herokuapp.com/))| Prescription app storing data in blockchain, final project at Makers Academy | JavaScript, NodeJS, express, mongoDB, HTML/CSS, TravisCI, Heroku | 2 weeks | Jasmine, Istanbul, Cypress |
 | Acebook ([Github](https://github.com/Pil3q/acebook-byte-2)) ([Heroku](https://acebook-project.herokuapp.com/))| Group project to recreate Facebook website | Ruby on Rails, HTML/CSS, Bootstrap, Devise, postgreSQL, TravisCI, Heroku | 2 weeks | RSpec, Capybara, Simple-cov |
 | Bank tech test ([Github](https://github.com/Pil3q/bank_tech_test)) | My very first tech test | Ruby | one day |RSpec |
 | Rock Paper Scissors Lizard Spock ([Github](https://github.com/Pil3q/rps-challenge)) | Implementation of magnificent game created by Sheldon Cooper| Ruby, Sinatra | two days | RSpec, Capybara |
