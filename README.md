@@ -18,6 +18,7 @@ I was working on database provisioning automation and its integration with the e
 
 ### RBS via ECS Digital (March 2019 - present)
 On this engagment I am working as a part of wider DevOps team on innovative Big Data project powerd with machine learning and AI. Our team is responsible for infrastructure delivery and managment, ongoing support for the developers,managing internal services as well as stakeholder managment.
+
 <b>Tech stack:</b>
 - AWS
 - Terraform
