@@ -6,7 +6,7 @@ I am a DevOps consultant with almost ten years of experience as a sales consulta
 
 ## PROJECTS
 
-### Tracr via ECS Digital February 2019)
+### Tracr via ECS Digital (February 2019)
 I was working on database provisioning automation and its integration with the existing pipeline for a startup using blockchain to track diamonds.
 
 <b>Tech stack:</b>
