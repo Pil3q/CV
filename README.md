@@ -32,7 +32,7 @@ On this engagment I am working as a part of wider DevOps team on innovative Big 
 - Took the leadership over DevOps playground committee in January 2020 and took our monthly meet-ups to digital sphere in response to COVID-19
 - Delivered talk on Docker Meetup in Edinburgh (Deploying Microservices with EKS/Kubernetes)
 
-## TECHNOLOFIES
+## TECHNOLOGIES
 - Programming/Scripting: Python, Bash, Ruby, JavaScript, Golang
 - IaaC: Terraform, Cloudformation
 - CM: Ansible
