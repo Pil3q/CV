@@ -1,45 +1,60 @@
 ## Patryk Pilecki
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [NETWORKS](#networks)
+[PROJECTS](#projects) | [ACHIEVEMENTS](#achievements)  | [TECHNOLOGIES](#technologies) | [TRAINING](#training) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a software developer with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I am focused on TDD, agile, OOD and believing in XP values. I am pair programming enthusiast also capable to work in a team or on my own. I am also open to new technologies and experiences.
+I am a DevOps consultant with almost ten years of experience as a sales consultant as well as successful time as an entrepreneur and chef. I also have 2 years of experience in adopting DevOps methodologies for Enterprise clients. I am focused on agile ways of working with the emphasis on communication and transparency. I believe in using right tool for the job and worked with variety of modern DevOps tools to achieve painless regular deployments.
 
 ## PROJECTS
 
-| Project       | Summary       | Technologies  | Timeframe | Testing |
-| ------------- |---------------| --------------|-----------|---------|
-| Blockchain Prescription App ([Github](https://github.com/Daniel57910/blockchain_project)) ([Heroku](https://secure-everglades-20518.herokuapp.com/))| Prescription app storing data in blockchain, final project at Makers Academy | JavaScript, NodeJS, express, mongoDB, HTML/CSS, TravisCI, Heroku | 2 weeks | Jasmine, Istanbul, Cypress |
-| Acebook ([Github](https://github.com/Pil3q/acebook-byte-2)) ([Heroku](https://acebook-project.herokuapp.com/))| Group project to recreate Facebook website | Ruby on Rails, HTML/CSS, Bootstrap, Devise, postgreSQL, TravisCI, Heroku | 2 weeks | RSpec, Capybara, Simple-cov |
-| Bank tech test ([Github](https://github.com/Pil3q/bank_tech_test)) | My very first tech test | Ruby | one day |RSpec |
-| Rock Paper Scissors Lizard Spock ([Github](https://github.com/Pil3q/rps-challenge)) | Implementation of magnificent game created by Sheldon Cooper| Ruby, Sinatra | two days | RSpec, Capybara |
+### Tracr via ECS Digital February 2019)
+I was working on database provisioning automation and its integration with the existing pipeline for a startup using blockchain to track diamonds.
 
-##### And many more available on my [Github](https://github.com/Pil3q?tab=repositories)
+<b>Tech stack:</b>
+- Rancher
+- Gitlab pipelines
+- AWS RDS
+- Postgresql
+- Golang
 
-## SKILLS
+### RBS via ECS Digital (March 2019 - present)
+On this engagment I am working as a part of wider DevOps team on innovative Big Data project powerd with machine learning and AI. Our team is responsible for infrastructure delivery and managment, ongoing support for the developers,managing internal services as well as stakeholder managment.
+<b>Tech stack:</b>
+- AWS
+- Terraform
+- Jenkins
+- OpenVPN
+- Active Directory
 
-#### Communication
+## ACHIEVEMENTS
+- Delivered four DevOps playground meet-ups (Container orchestration with Docker Swarm and Kubernetes) in London, Edinburh and digitaly
+- Delivered first Digital edition of DevOps playgrounds
+- Took the leadership over DevOps playground committee in January 2020 and took our monthly meet-ups to digital sphere in response to COVID-19
+- Delivered talk on Docker Meetup in Edinburgh (Deploying Microservices with EKS/Kubernetes)
 
-My great communication skills made me a great salesperson. I can listen and read body language and thanks to that I can speak in the most understandable manner either to my colleges or clients.
+## TECHNOLOFIES
+- Programming/Scripting: Python, Bash, Ruby, JavaScript, Golang
+- IaaC: Terraform, Cloudformation
+- CM: Ansible
+- Container orchestration: Docker Swarm, Kubernetes, Rancher, AWS ECS
+- Cloud: AWS, GCP
+- CI/CD: Jenkins, Gitlab, Travis
+- Monitoring: Cloudwatch, Prometheus
+- Service Discovery: Consul
+- Secrets managment: Vault, AWS Secrets Manager
 
-#### Analytical and logic
+## TRAINING
 
-Since my early years when I found math for the first time I was perceiving the world in a logical way. I tend to look for patterns and thanks to spotting them making my life easier. Nevertheless I think the best proof of my skills are my successes playing Bridge where I won numerous trophies on the international level representing Poland in under 18’s national squad.
+### Hashicorp 101 (February 2019)
+- Terraform 101
+- Vault 101
+- Vault 102
+- Consul 101
 
-#### Fast-Learner
-
-I accomplished very exciting projects during 12 weeks at Bootcamp. I became an entrepreneur and locally recognisable chef when I was co-running the wedding venue which I expanded to a micro concert hall in a year.
-
-#### Languages
-
-I speak fluent English and I am Polish native. I also know basic Spanish ( I can not run the business meeting but can find the way in Andes)
-
-#### Team-Player
-
-All of my working experiences involved working with people. I had an opportunity to lead the team and be a part of it.
+### Docker Certified Associate (February 2019)
 
 ## EDUCATION
 
-#### Makers Academy (March 2018 to June 2018)
+### Makers Academy (March 2018 to June 2018)
 
 - Pair programming
 - Group projects
@@ -48,7 +63,8 @@ All of my working experiences involved working with people. I had an opportunity
 - XP values
 - Agile programming
 
-#### Wroclaw University (October 2009 - September 2012)
+
+### Wroclaw University (October 2009 - September 2012)
 
 - Economics with focus on Financial Markets
 
@@ -56,6 +72,7 @@ All of my working experiences involved working with people. I had an opportunity
 
 | Years | Role | Company |
 |------ |------------------------------|-------------|
+|2018 - Present | DevOps Consultant | ECS Digital, London
 |2016 - 2018 | Insurance Consultant | A - Plan Insurance, London, Luton
 |2014 - 2016 | Chef, Co-Founder | Celinka, Poland
 |2011 – 2013| Senior specialist in Complicated Receivables Department | Ultimo Ltd. Poland|
