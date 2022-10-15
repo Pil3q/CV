@@ -96,6 +96,6 @@ Yoga, Cooking, Video Games, Lego, Hiking/mountaineering, Travel, Art/fashion
 ## NETWORKS
 
 <p align="center">
-<a href="https://www.linkedin.com/in/patryk-pilecki-a21841165/">
+<a href="https://www.linkedin.com/in/pil3q/">
 <img src="./img/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
