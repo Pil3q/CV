@@ -6,7 +6,7 @@ I am a DevOps consultant with almost ten years of experience as a sales consulta
 
 ## PROJECTS
 ### <b> RBS/Natwest via ECS/GlobalLogic (February 2021 - now) - Cloud Adoption (AWS Shared Services) </b>
-My most recent project was focused on delivering AWS services to be consumed by mainly internal customers with an emphasis on security, compliance and best practices. Over time I was involved in various initiatives tackling the challenges of a Hybrid Cloud within a large Enterprise. I had an opportunity to be involved in the whole process of delivering solutions in the cloud (AWS) in a highly regulated environment. From the requirements gathering, through architecture design, and security assessment to implementation and production deployment. I worked closely with engineers from AWS and Hashicorp as well as providing my expertise to various Third Party vendors.
+My most recent project was focused on delivering AWS services to be consumed by mainly internal customers with an emphasis on security, compliance and best practices. Over time I was involved in various initiatives tackling the challenges of a Hybrid Cloud within a large Enterprise. I had an opportunity to be involved in the whole process of delivering solutions in the cloud (AWS) in a highly regulated environment. From the requirements gathering, through architecture design, and security assessment to implementation and production deployment. I worked closely with engineers from AWS and Hashicorp. I also provided my expertise to various Third Party vendors to help them integrate with our solutions.
 
 <b>Tech stack:</b> AWS, Terraform Enterprise, Kubernetes(AWS EKS), TeamCity, Python, Prometheus/Grafana, Istio, Splunk, Vault
 
