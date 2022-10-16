@@ -35,7 +35,8 @@ I was working on database provisioning automation and its integration with the e
     - Building cost-efficient infrastructure in Cloud (AWS) using Terraform (online) - [see on YouTube](https://youtu.be/nSemXbd8TQk)
     - Docker and Podman - twins, rivals or strangers? (London, online) - [see on YouTube](https://youtu.be/4kyubEhGnNY)
 - Delivered talk at Docker Meetup in Edinburgh - Deploying Microservices with EKS/Kubernetes ([Meet-up page](https://www.meetup.com/docker-edinburgh/events/264781102/))
-- Finalist of DevOps Industry Awards 2020 - Newcomer of the Year [see more details](https://www.devopsonline.co.uk/the-devops-industry-awards/finalists/)
+- Finalist of DevOps Industry Awards 2020 - Newcomer of the Year - [see more details](https://www.devopsonline.co.uk/the-devops-industry-awards/finalists/)
+- Guest on Tech³ Podcast episode 11 DevOps Playground - [Listen Notes](https://lnns.co/J2shrU9eo3G), [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-11-the-devops-playground/id1500588456?i=1000529321234), [Spotify](https://open.spotify.com/episode/1fqb2Tb9fwAnQgRRfNocRY?si=JhNT8TfMSdKKfl6UIcuNAg)
 
 ## SKILLS
 <center>
