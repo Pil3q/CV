@@ -101,6 +101,4 @@ Yoga, Cooking, Video Games, Lego, Hiking/mountaineering, Travel, Art/Fashion
 <p align="center">
 <a href="https://www.linkedin.com/in/pil3q/">
 <img src="./img/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-<a href="https://github.com/Pil3q">
-<img src="./img/github.png" alt="Github" hspace="50" height="42" width="42"></a>
 </p>
