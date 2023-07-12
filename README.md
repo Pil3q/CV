@@ -29,8 +29,8 @@ I was working on database provisioning automation and its integration with the e
 - In January 2020 I became a leader of the DevOps playground Meet-up [see Meetup page](https://www.meetup.com/devopsplayground/)
     - Organised and presented the first online edition of the event in response to the COVID-19 pandemic
     - Automated lab infrastructure creation and delivery (Terraform Cloud, AWS, GraphQL API)
-    - Established support system for the presenters
-    - Sucessfully handed over the leadership (2023), continuing to provide technical support
+    - Established a support system for the presenters
+    - Successfully handed over the leadership (2023), continuing to provide technical support
 - Delivered multiple sessions at the DevOps playground (content and lab infrastructure design, presentation)
     - Container orchestration with Docker Swarm and Kubernetes (London, Edinburgh and online) - [see on YouTube](https://youtu.be/Sl41rad13g8)
     - Building cost-efficient infrastructure in Cloud (AWS) using Terraform (online) - [see on YouTube](https://youtu.be/nSemXbd8TQk)
