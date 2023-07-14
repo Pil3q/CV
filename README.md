@@ -46,8 +46,9 @@ I was working on database provisioning automation and its integration with the e
 | Type | Advanced | Intermedaite | Beginer |
 |------------------- |-------------|-------------|-------------|
 | IaaC | Terraform | CloudFormation | N/A |
-| Coding/Scripting | N/A | Python, Bash | Ruby, JavaScript, Golang
+| Cloud | AWS | N/A | GCP, Azure |
 | Containers/Orchestration | Docker | Kubernetes/EKS | Rancher |
+| Coding/Scripting | N/A | Python, Bash | Ruby, JavaScript, Golang
 | Configuration Management | N/A | Ansible | Bolt |
 | CI/CD | N/A | Jenkins, Teamcity, Gitlab | Travis |
 | Monitoring | N/A | Prometheus/Grafana | Istio |
@@ -67,8 +68,7 @@ I was working on database provisioning automation and its integration with the e
 
 ### Makers Academy (March 2018 to June 2018)
 
-- Pair programming
-- Group projects
+- Pair programming / Group projects
 - Object-oriented programming
 - TDD & BDD
 - XP values
