@@ -5,8 +5,10 @@
 I am a DevOps consultant with almost ten years of experience as a sales consultant and successful time as an entrepreneur and chef. I also have over four years of experience in adopting DevOps methodologies for Enterprise clients. I am focused on agile ways of working with an emphasis on communication and transparency. I believe in using the right tool for the job and worked with a variety of modern DevOps tools to achieve painless regular deployments.
 
 ## PROJECTS
-### <b>RBS/Natwest via ECS/GlobalLogic (February 2021 - now) - Cloud Adoption (AWS Shared Services) </b>
-My most recent project focused on delivering AWS services to mainly internal customers with an emphasis on security, compliance and best practices. Over time I was involved in various initiatives tackling the challenges of a Hybrid Cloud within a large Enterprise. I had an opportunity to be involved in the whole process of delivering solutions in the cloud (AWS) in a highly regulated environment. From the requirements gathering, through architecture design, and security assessment to implementation and production deployment. I worked closely with engineers from AWS and Hashicorp. I also provided my expertise to various Third Party vendors to help them integrate with our solutions.
+### Harness (November 2023 - now)
+Working with multiple UK and EU based customers assiting with onboarding and adoption of Harness products. Mainly focused on CI/CD/IDP with responsiblities including, architecture design, workshops with customer teams, advice on integration with existing toolset and best practices. 
+### <b>RBS/Natwest via ECS/GlobalLogic (February 2021 - November 2023) - Cloud Adoption (AWS Shared Services) </b>
+Project focused on delivering AWS services to mainly internal customers with an emphasis on security, compliance and best practices. Over time I was involved in various initiatives tackling the challenges of a Hybrid Cloud within a large Enterprise. I had an opportunity to be involved in the whole process of delivering solutions in the cloud (AWS) in a highly regulated environment. From the requirements gathering, through architecture design, and security assessment to implementation and production deployment. I worked closely with engineers from AWS and Hashicorp. I also provided my expertise to various Third Party vendors to help them integrate with our solutions.
 
 <b>Tech stack:</b> AWS, Terraform Enterprise, Kubernetes(AWS EKS), TeamCity, Python, Prometheus/Grafana, Istio, Splunk, Vault
 
@@ -46,12 +48,12 @@ I was working on database provisioning automation and its integration with the e
 | Type | Advanced | Intermedaite | Beginer |
 |------------------- |-------------|-------------|-------------|
 | IaaC | Terraform | CloudFormation | N/A |
-| Cloud | AWS | N/A | GCP, Azure |
+| Cloud | AWS | Azure | GCP |
 | Containers/Orchestration | Docker | Kubernetes/EKS | Rancher |
 | Coding/Scripting | N/A | Python, Bash | Ruby, JavaScript, Golang
 | Configuration Management | N/A | Ansible | Bolt |
-| CI/CD | N/A | Jenkins, Teamcity, Gitlab | Travis |
-| Monitoring | N/A | Prometheus/Grafana | Istio |
+| CI/CD | Harness| Jenkins, Teamcity, Gitlab | Travis, Spinnaker |
+| Monitoring | N/A | Prometheus/Grafana | Istio, DataDog |
 | Service Mesh | N/A | Consul, Istio | N/A |
 | Secrets Management | N/A | Vault | N/A |
 
@@ -68,12 +70,7 @@ I was working on database provisioning automation and its integration with the e
 
 ### Makers Academy (March 2018 to June 2018)
 
-- Pair programming / Group projects
-- Object-oriented programming
-- TDD & BDD
-- XP values
-- Agile programming
-
+- Pair programming / Group projects, Object-oriented programming, TDD & BDD, XP values, Agile programming
 
 ### Wroclaw University (October 2009 - September 2012)
 
@@ -84,7 +81,8 @@ I was working on database provisioning automation and its integration with the e
 
 | Years | Role | Company |
 |------ |------------------------------|-------------|
-|2018 - Present | DevOps Consultant | ECS, GlobalLogic UK&I London
+|2023 - now | Solutions Architect | Harness, EMEA, London
+|2018 - 2023 | DevOps Consultant | ECS, GlobalLogic UK&I London
 |2016 - 2018 | Insurance Consultant | A - Plan Insurance, London, Luton
 |2014 - 2016 | Chef, Co-Founder | Celinka, Poland
 |2011 – 2013| Senior specialist in Complicated Receivables Department | Ultimo Ltd. Poland|
