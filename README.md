@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [ACHIEVEMENTS](#achievements)  | [SKILLS](#skills) | [TRAINING](#training) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a DevOps consultant with almost ten years of experience as a sales consultant and successful time as an entrepreneur and chef. I also have over four years of experience in adopting DevOps methodologies for Enterprise clients. I am focused on agile ways of working with an emphasis on communication and transparency. I believe in using the right tool for the job and worked with a variety of modern DevOps tools to achieve painless regular deployments.
+I am a DevOps consultant with almost ten years of experience as a sales consultant and successful time as an entrepreneur and chef. I also have over five years of experience in adopting DevOps methodologies for Enterprise clients. I am focused on agile ways of working with an emphasis on communication and transparency. I believe in using the right tool for the job and worked with a variety of modern DevOps tools to achieve painless regular deployments.
 
 ## PROJECTS
 ### Harness (November 2023 - now)
