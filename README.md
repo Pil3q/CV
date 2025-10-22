@@ -2,10 +2,21 @@
 
 [PROJECTS](#projects) | [ACHIEVEMENTS](#achievements)  | [SKILLS](#skills) | [TRAINING](#training) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a DevOps consultant with almost ten years of experience as a sales consultant and successful time as an entrepreneur and chef. I also have over five years of experience in adopting DevOps methodologies for Enterprise clients. I am focused on agile ways of working with an emphasis on communication and transparency. I believe in using the right tool for the job and worked with a variety of modern DevOps tools to achieve painless regular deployments.
+I am a DevOps/Platform consultant with almost ten years of experience as a sales consultant and successful time as an entrepreneur and chef. I have over seven years of experience in adopting DevOps practicies for Enterprise clients. During my career I had a chance to be involved in every part of SDLC, from the architecture desing to production implementation. I am focused on agile ways of working with an emphasis on communication and transparency. I believe in using the right tool for the job and worked with a variety of modern tools to achieve painless regular deployments.
 
 ## PROJECTS
-### Harness (November 2023 - now)
+
+### LSEG via Mesh-AI (August 2025 - now)
+I was responsible for establishing the LLMOps practicies and creating the Data Scientist workspace. The main focus was on the developer experience and enabling data scientists to experiment frequently and quickly iterate over the prompts and subcomponents. I was also responsible for implementing the monitoring of the LLMs performance and cost discipline.
+
+<b>Tech stack:</b> AWS, Terraform, Kubernetes (AWS EKS), Langfuse, LiteLLM, Sagemaker, AWS Bedrock, Anthropic
+
+### Trafigura via Mesh-AI (December 2024 - July 2025)
+I was responsible for designing the platform architecture and leading the implementation of the infrastructure, CI/CD processes and enchancing the developer experience. The main goal was to ensure the stability of the platform while enabling the developers and data engineers to experiment and develop at pace.
+
+<b>Tech stack:</b> AWS, Terraform, Kubernetes (AWS EKS), ArgoCD, Clickhouse, Grafana, dev containers, ORE
+
+### Harness (November 2023 - November 2024)
 Working with multiple UK and EU based customers assiting with onboarding and adoption of Harness products. Mainly focused on CI/CD/IDP with responsiblities including, architecture design, workshops with customer teams, advice on integration with existing toolset and best practices. 
 
 <b>Tech stack:</b> Harness, Terraform, Kubernetes, Spinnaker, AWS, GCP, Azure, OpenShift
@@ -50,13 +61,13 @@ I was working on database provisioning automation and its integration with the e
 
 | Type | Advanced | Intermedaite | Beginer |
 |------------------- |-------------|-------------|-------------|
-| IaaC | Terraform | CloudFormation | N/A |
-| Cloud | AWS | Azure | GCP |
-| Containers/Orchestration | Docker | Kubernetes/EKS | Rancher |
-| Coding/Scripting | N/A | Python, Bash | Ruby, JavaScript, Golang
+| IaaC | Terraform/OpenTofu | CloudFormation | N/A |
+| Cloud | AWS | Azure, GCP | N/A |
+| Containers/Orchestration | Docker, Kubernetes/EKS | Rancher | N/A |
+| Coding/Scripting | N/A | Python, Golang, Bash | Ruby, JavaScript
 | Configuration Management | N/A | Ansible | Bolt |
-| CI/CD | Harness| Jenkins, Teamcity, Gitlab | Travis, Spinnaker |
-| Monitoring | N/A | Prometheus/Grafana | Istio, DataDog |
+| CI/CD | Harness, ArgoCD |  Gitlab, Jenkins, Teamcity | Travis, Spinnaker |
+| Monitoring | N/A | Prometheus/Grafana | Istio, DataDog, Splunk |
 | Service Mesh | N/A | Consul, Istio | N/A |
 | Secrets Management | N/A | Vault | N/A |
 
@@ -78,7 +89,8 @@ I was working on database provisioning automation and its integration with the e
 
 | Years | Role | Company |
 |------ |------------------------------|-------------|
-|2023 - now | Solutions Architect | Harness, EMEA, London
+|2024 - now | Lead Platform Consultant | Mesh-AI, London
+|2023 - 2024 | Solutions Architect | Harness, EMEA, London
 |2018 - 2023 | DevOps Consultant | ECS, GlobalLogic UK&I London
 |2016 - 2018 | Insurance Consultant | A - Plan Insurance, London, Luton
 |2014 - 2016 | Chef, Co-Founder | Celinka, Poland
